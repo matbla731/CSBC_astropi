@@ -41,7 +41,8 @@ exif
 scikit-learn
 scikit-image
 reverse-geocoder
-sense_hat```
+sense_hat
+```
 
 ---
 
